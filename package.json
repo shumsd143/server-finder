@@ -1,0 +1,20 @@
+{
+  "name": "serverfindershumsd143",
+  "version": "1.0.5",
+  "description": "A package created to find server and return the server according to priority",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "serverfinder"
+  ],
+  "author": "Shubham Shekhar",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
