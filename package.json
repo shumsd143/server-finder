@@ -1,6 +1,6 @@
 {
   "name": "serverfindershumsd143",
-  "version": "1.0.5",
+  "version": "2.0.0",
   "description": "A package created to find server and return the server according to priority",
   "main": "index.js",
   "scripts": {
