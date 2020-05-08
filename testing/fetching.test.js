@@ -5,8 +5,6 @@ const fetch=require('node-fetch')
 
 jest.mock('node-fetch', ()=>jest.fn())
 
-console.log(fetch)
-
 describe("request from different server",()=>{
     it('testing for correct request',()=>{
         fetch.mockResolvedValue({ status: 200 });
